@@ -1,0 +1,4 @@
+#Sat Sep 04 13:32:34 EET 2021
+base.0=E\:\\courses\\flutter\\Abdullah Mansour\\Challenges of Abdullah Mansour\\ch1\\Solutions\\My Solution\\login_signup\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
